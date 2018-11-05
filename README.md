@@ -1,20 +1,20 @@
 # flutter_demo
-demo for flutter
+<p>demo for flutter</p>
 
-First attempt at flutter
-Using UI and related components
-Writing a simple functional application
-For beginners
+<p>First attempt at flutter</p>
+<p>Using UI and related components</p>
+<p>Writing a simple functional application</p>
+<p>For beginners</p>
 
-1.set your dart Path
-2.flutter packages get
+<p>1.set your dart Path</p>
+<p>2.flutter packages get</p>
 
 
-初次尝试flutter 
-使用UI以及相关组件
-编写一个简单功能应用
-适用于初学者
+<p>初次尝试flutter</p>
+<p>使用UI以及相关组件</p>
+<p>编写一个简单功能应用</p>
+<p>适用于初学者</p>
 
-1.设置你自己的dart路径
-2.运行一下flutter packages get这个命令
+<p>1.设置你自己的dart路径</p>
+<p>2.运行一下flutter packages get这个命令</p>
 
